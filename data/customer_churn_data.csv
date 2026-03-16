@@ -1,0 +1,9 @@
+segment,total_customers,churned_last_quarter,churn_rate_pct,avg_lifetime_value_usd,avg_tenure_months,primary_churn_reason,nps_score,recovery_rate_pct,revenue_at_risk_usd_millions
+Enterprise,1240,31,2.5,87400,48.3,Competitive pricing,42,34.2,2.71
+Mid-Market,4680,187,4.0,24600,31.7,Product feature gaps,28,22.8,4.60
+SMB Growth,12340,864,7.0,8900,18.4,Price sensitivity,18,15.3,7.69
+SMB Starter,28760,3450,12.0,2400,8.9,Free alternative found,6,8.7,8.28
+Consumer Premium,34200,1710,5.0,1800,24.6,Competitor offer,-4,18.4,3.08
+Consumer Standard,89400,10726,12.0,680,12.3,Price increase,2,9.2,7.29
+Consumer Freemium,156800,37632,24.0,120,4.2,Engagement dropout,-18,3.1,4.52
+Partner/Reseller,890,27,3.0,142000,56.8,Channel conflict,51,41.7,3.83

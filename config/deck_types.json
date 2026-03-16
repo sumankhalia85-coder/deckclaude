@@ -1,0 +1,186 @@
+{
+  "deck_types": {
+    "strategy_deck": {
+      "name": "Strategy Deck",
+      "description": "Long-range strategic plans, market entry, competitive positioning",
+      "typical_slide_count": 18,
+      "slides": [
+        {"slide_number": 1, "slide_type": "title", "title": "Presentation Title", "content_type": "title", "layout": "title_slide"},
+        {"slide_number": 2, "slide_type": "content", "title": "Executive Summary", "content_type": "key_messages", "layout": "content"},
+        {"slide_number": 3, "slide_type": "content", "title": "Strategic Context & Market Dynamics", "content_type": "bullets_with_chart", "layout": "two_column"},
+        {"slide_number": 4, "slide_type": "chart", "title": "Market Size and Growth", "content_type": "bar_chart", "layout": "chart_slide"},
+        {"slide_number": 5, "slide_type": "content", "title": "Competitive Landscape", "content_type": "matrix_table", "layout": "content"},
+        {"slide_number": 6, "slide_type": "chart", "title": "Competitive Position Analysis", "content_type": "bubble_chart", "layout": "chart_slide"},
+        {"slide_number": 7, "slide_type": "content", "title": "Internal Assessment", "content_type": "swot_diagram", "layout": "two_column"},
+        {"slide_number": 8, "slide_type": "section", "title": "Strategic Options", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 9, "slide_type": "content", "title": "Strategic Option 1", "content_type": "option_analysis", "layout": "two_column"},
+        {"slide_number": 10, "slide_type": "content", "title": "Strategic Option 2", "content_type": "option_analysis", "layout": "two_column"},
+        {"slide_number": 11, "slide_type": "content", "title": "Strategic Option 3", "content_type": "option_analysis", "layout": "two_column"},
+        {"slide_number": 12, "slide_type": "content", "title": "Recommended Strategy", "content_type": "recommendation_with_rationale", "layout": "content"},
+        {"slide_number": 13, "slide_type": "diagram", "title": "Strategic Roadmap", "content_type": "timeline_roadmap", "layout": "content"},
+        {"slide_number": 14, "slide_type": "chart", "title": "Financial Impact Projection", "content_type": "waterfall_chart", "layout": "chart_slide"},
+        {"slide_number": 15, "slide_type": "content", "title": "Risk Assessment & Mitigation", "content_type": "risk_matrix_table", "layout": "content"},
+        {"slide_number": 16, "slide_type": "content", "title": "Required Capabilities & Investments", "content_type": "bullets", "layout": "content"},
+        {"slide_number": 17, "slide_type": "content", "title": "Next Steps & Decision Points", "content_type": "action_table", "layout": "content"},
+        {"slide_number": 18, "slide_type": "content", "title": "Appendix", "content_type": "section_divider", "layout": "blank"}
+      ]
+    },
+    "executive_update": {
+      "name": "Executive Update",
+      "description": "C-suite briefings, board updates, quarterly business reviews",
+      "typical_slide_count": 10,
+      "slides": [
+        {"slide_number": 1, "slide_type": "title", "title": "Quarterly Business Update", "content_type": "title", "layout": "title_slide"},
+        {"slide_number": 2, "slide_type": "content", "title": "Key Messages This Quarter", "content_type": "three_key_messages", "layout": "content"},
+        {"slide_number": 3, "slide_type": "chart", "title": "Performance vs. Target", "content_type": "grouped_bar_chart", "layout": "chart_slide"},
+        {"slide_number": 4, "slide_type": "chart", "title": "Revenue & Margin Trend", "content_type": "dual_axis_line_chart", "layout": "chart_slide"},
+        {"slide_number": 5, "slide_type": "content", "title": "Operational Scorecard", "content_type": "rag_status_table", "layout": "content"},
+        {"slide_number": 6, "slide_type": "content", "title": "Top Wins This Period", "content_type": "bullets", "layout": "two_column"},
+        {"slide_number": 7, "slide_type": "content", "title": "Key Risks & Issues", "content_type": "risk_bullets_with_status", "layout": "content"},
+        {"slide_number": 8, "slide_type": "content", "title": "Market Context", "content_type": "bullets_with_data", "layout": "two_column"},
+        {"slide_number": 9, "slide_type": "content", "title": "Recommended Actions", "content_type": "action_items_with_owner", "layout": "content"},
+        {"slide_number": 10, "slide_type": "content", "title": "Appendix: Supporting Data", "content_type": "section_divider", "layout": "blank"}
+      ]
+    },
+    "proposal_deck": {
+      "name": "Proposal Deck",
+      "description": "Sales proposals, RFP responses, partnership pitches",
+      "typical_slide_count": 15,
+      "slides": [
+        {"slide_number": 1, "slide_type": "title", "title": "Proposal Title", "content_type": "title", "layout": "title_slide"},
+        {"slide_number": 2, "slide_type": "content", "title": "Executive Summary", "content_type": "key_messages", "layout": "content"},
+        {"slide_number": 3, "slide_type": "content", "title": "Understanding Your Challenge", "content_type": "problem_statement", "layout": "two_column"},
+        {"slide_number": 4, "slide_type": "content", "title": "Our Approach", "content_type": "approach_diagram", "layout": "content"},
+        {"slide_number": 5, "slide_type": "diagram", "title": "Proposed Solution Architecture", "content_type": "process_chevron", "layout": "content"},
+        {"slide_number": 6, "slide_type": "content", "title": "Why We Are Best Positioned", "content_type": "differentiators_bullets", "layout": "two_column"},
+        {"slide_number": 7, "slide_type": "content", "title": "Case Study: Client Success", "content_type": "case_study_layout", "layout": "two_column"},
+        {"slide_number": 8, "slide_type": "chart", "title": "Expected ROI", "content_type": "roi_bar_chart", "layout": "chart_slide"},
+        {"slide_number": 9, "slide_type": "content", "title": "Investment & Pricing", "content_type": "pricing_table", "layout": "content"},
+        {"slide_number": 10, "slide_type": "diagram", "title": "Implementation Roadmap", "content_type": "timeline_roadmap", "layout": "content"},
+        {"slide_number": 11, "slide_type": "content", "title": "Team & Credentials", "content_type": "team_layout", "layout": "two_column"},
+        {"slide_number": 12, "slide_type": "content", "title": "Risk Mitigation Plan", "content_type": "risk_table", "layout": "content"},
+        {"slide_number": 13, "slide_type": "content", "title": "Client References", "content_type": "reference_logos_bullets", "layout": "two_column"},
+        {"slide_number": 14, "slide_type": "content", "title": "Proposed Next Steps", "content_type": "action_table", "layout": "content"},
+        {"slide_number": 15, "slide_type": "content", "title": "Appendix", "content_type": "section_divider", "layout": "blank"}
+      ]
+    },
+    "training_deck": {
+      "name": "Training Deck",
+      "description": "Employee training, onboarding, skills development",
+      "typical_slide_count": 25,
+      "slides": [
+        {"slide_number": 1, "slide_type": "title", "title": "Training Module Title", "content_type": "title", "layout": "title_slide"},
+        {"slide_number": 2, "slide_type": "content", "title": "Learning Objectives", "content_type": "numbered_bullets", "layout": "content"},
+        {"slide_number": 3, "slide_type": "content", "title": "Agenda", "content_type": "agenda_list", "layout": "content"},
+        {"slide_number": 4, "slide_type": "section", "title": "Section 1: Foundations", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 5, "slide_type": "content", "title": "Key Concepts", "content_type": "concept_bullets", "layout": "content"},
+        {"slide_number": 6, "slide_type": "diagram", "title": "How It Works", "content_type": "process_diagram", "layout": "content"},
+        {"slide_number": 7, "slide_type": "content", "title": "Definitions & Terminology", "content_type": "two_column_list", "layout": "two_column"},
+        {"slide_number": 8, "slide_type": "content", "title": "Real-World Example", "content_type": "case_example", "layout": "two_column"},
+        {"slide_number": 9, "slide_type": "content", "title": "Knowledge Check", "content_type": "quiz_question", "layout": "content"},
+        {"slide_number": 10, "slide_type": "section", "title": "Section 2: Application", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 11, "slide_type": "content", "title": "Step-by-Step Process", "content_type": "numbered_steps", "layout": "content"},
+        {"slide_number": 12, "slide_type": "diagram", "title": "Process Flow", "content_type": "chevron_process", "layout": "content"},
+        {"slide_number": 13, "slide_type": "content", "title": "Common Mistakes to Avoid", "content_type": "do_dont_table", "layout": "two_column"},
+        {"slide_number": 14, "slide_type": "content", "title": "Practical Exercise", "content_type": "exercise_instructions", "layout": "content"},
+        {"slide_number": 15, "slide_type": "content", "title": "Tools & Resources", "content_type": "resource_list", "layout": "two_column"},
+        {"slide_number": 16, "slide_type": "section", "title": "Section 3: Advanced Topics", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 17, "slide_type": "content", "title": "Advanced Techniques", "content_type": "bullets", "layout": "content"},
+        {"slide_number": 18, "slide_type": "chart", "title": "Performance Benchmarks", "content_type": "bar_chart", "layout": "chart_slide"},
+        {"slide_number": 19, "slide_type": "content", "title": "Best Practice Case Studies", "content_type": "case_study_layout", "layout": "two_column"},
+        {"slide_number": 20, "slide_type": "content", "title": "Scenario Practice", "content_type": "scenario_exercise", "layout": "content"},
+        {"slide_number": 21, "slide_type": "section", "title": "Section 4: Assessment", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 22, "slide_type": "content", "title": "Knowledge Assessment", "content_type": "assessment_questions", "layout": "content"},
+        {"slide_number": 23, "slide_type": "content", "title": "Summary & Key Takeaways", "content_type": "summary_bullets", "layout": "content"},
+        {"slide_number": 24, "slide_type": "content", "title": "Action Plan Template", "content_type": "action_plan_table", "layout": "content"},
+        {"slide_number": 25, "slide_type": "content", "title": "Additional Resources & Support", "content_type": "resource_list", "layout": "two_column"}
+      ]
+    },
+    "project_status": {
+      "name": "Project Status",
+      "description": "Project progress updates, milestone reviews, risk dashboards",
+      "typical_slide_count": 12,
+      "slides": [
+        {"slide_number": 1, "slide_type": "title", "title": "Project Status Report", "content_type": "title", "layout": "title_slide"},
+        {"slide_number": 2, "slide_type": "content", "title": "Overall Status Summary", "content_type": "rag_status_overview", "layout": "content"},
+        {"slide_number": 3, "slide_type": "content", "title": "Milestones & Timeline", "content_type": "gantt_like_table", "layout": "content"},
+        {"slide_number": 4, "slide_type": "chart", "title": "Progress vs. Plan", "content_type": "progress_bar_chart", "layout": "chart_slide"},
+        {"slide_number": 5, "slide_type": "content", "title": "Accomplishments This Period", "content_type": "bullets", "layout": "two_column"},
+        {"slide_number": 6, "slide_type": "content", "title": "Planned Activities Next Period", "content_type": "action_table", "layout": "content"},
+        {"slide_number": 7, "slide_type": "content", "title": "Issues & Blockers", "content_type": "issues_table", "layout": "content"},
+        {"slide_number": 8, "slide_type": "content", "title": "Risk Register", "content_type": "risk_matrix_table", "layout": "content"},
+        {"slide_number": 9, "slide_type": "chart", "title": "Budget vs. Actuals", "content_type": "budget_bar_chart", "layout": "chart_slide"},
+        {"slide_number": 10, "slide_type": "content", "title": "Stakeholder Actions Required", "content_type": "action_items_with_owner", "layout": "content"},
+        {"slide_number": 11, "slide_type": "content", "title": "Decisions Needed", "content_type": "decision_table", "layout": "content"},
+        {"slide_number": 12, "slide_type": "content", "title": "Appendix: Detailed Data", "content_type": "section_divider", "layout": "blank"}
+      ]
+    },
+    "research_summary": {
+      "name": "Research Summary",
+      "description": "Market research findings, competitive analysis, customer insights",
+      "typical_slide_count": 18,
+      "slides": [
+        {"slide_number": 1, "slide_type": "title", "title": "Research Report Title", "content_type": "title", "layout": "title_slide"},
+        {"slide_number": 2, "slide_type": "content", "title": "Key Findings at a Glance", "content_type": "three_findings_layout", "layout": "content"},
+        {"slide_number": 3, "slide_type": "content", "title": "Research Methodology", "content_type": "methodology_bullets", "layout": "two_column"},
+        {"slide_number": 4, "slide_type": "section", "title": "Market Overview", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 5, "slide_type": "chart", "title": "Market Size & Growth Trajectory", "content_type": "line_bar_combo_chart", "layout": "chart_slide"},
+        {"slide_number": 6, "slide_type": "chart", "title": "Market Segmentation", "content_type": "pie_chart", "layout": "chart_slide"},
+        {"slide_number": 7, "slide_type": "content", "title": "Key Market Drivers", "content_type": "driver_bullets_with_icons", "layout": "content"},
+        {"slide_number": 8, "slide_type": "section", "title": "Competitive Analysis", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 9, "slide_type": "content", "title": "Competitive Landscape Map", "content_type": "competitor_table", "layout": "content"},
+        {"slide_number": 10, "slide_type": "chart", "title": "Market Share Analysis", "content_type": "stacked_bar_chart", "layout": "chart_slide"},
+        {"slide_number": 11, "slide_type": "section", "title": "Customer Insights", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 12, "slide_type": "chart", "title": "Customer Satisfaction & NPS", "content_type": "gauge_bar_chart", "layout": "chart_slide"},
+        {"slide_number": 13, "slide_type": "content", "title": "Customer Segmentation Analysis", "content_type": "segment_table", "layout": "content"},
+        {"slide_number": 14, "slide_type": "content", "title": "Voice of Customer: Top Themes", "content_type": "quotes_with_data", "layout": "two_column"},
+        {"slide_number": 15, "slide_type": "section", "title": "Implications & Recommendations", "content_type": "section_divider", "layout": "section_header"},
+        {"slide_number": 16, "slide_type": "content", "title": "Strategic Implications", "content_type": "implication_bullets", "layout": "content"},
+        {"slide_number": 17, "slide_type": "content", "title": "Recommended Actions", "content_type": "action_table", "layout": "content"},
+        {"slide_number": 18, "slide_type": "content", "title": "Appendix: Detailed Data & Methodology", "content_type": "section_divider", "layout": "blank"}
+      ]
+    },
+    "pitch_deck": {
+      "name": "Pitch Deck",
+      "description": "Startup investor pitches, fundraising decks",
+      "typical_slide_count": 12,
+      "slides": [
+        {"slide_number": 1, "slide_type": "title", "title": "Company Name & Tagline", "content_type": "title_with_tagline", "layout": "title_slide"},
+        {"slide_number": 2, "slide_type": "content", "title": "The Problem", "content_type": "problem_statement_with_data", "layout": "two_column"},
+        {"slide_number": 3, "slide_type": "chart", "title": "Market Opportunity", "content_type": "tam_sam_som_chart", "layout": "chart_slide"},
+        {"slide_number": 4, "slide_type": "content", "title": "Our Solution", "content_type": "solution_bullets_with_image", "layout": "two_column"},
+        {"slide_number": 5, "slide_type": "content", "title": "Product Demo / Screenshots", "content_type": "image_with_captions", "layout": "content"},
+        {"slide_number": 6, "slide_type": "content", "title": "Business Model", "content_type": "revenue_model_diagram", "layout": "two_column"},
+        {"slide_number": 7, "slide_type": "chart", "title": "Traction & Growth", "content_type": "growth_line_chart", "layout": "chart_slide"},
+        {"slide_number": 8, "slide_type": "content", "title": "Go-to-Market Strategy", "content_type": "gtm_phases", "layout": "content"},
+        {"slide_number": 9, "slide_type": "content", "title": "Competitive Advantage", "content_type": "comparison_table", "layout": "content"},
+        {"slide_number": 10, "slide_type": "content", "title": "Team", "content_type": "team_bios_layout", "layout": "two_column"},
+        {"slide_number": 11, "slide_type": "chart", "title": "Financial Projections", "content_type": "financial_projection_chart", "layout": "chart_slide"},
+        {"slide_number": 12, "slide_type": "content", "title": "The Ask", "content_type": "funding_ask_layout", "layout": "content"}
+      ]
+    },
+    "board_presentation": {
+      "name": "Board Presentation",
+      "description": "Formal board of directors presentations, governance reports",
+      "typical_slide_count": 16,
+      "slides": [
+        {"slide_number": 1, "slide_type": "title", "title": "Board of Directors Meeting", "content_type": "title_with_date", "layout": "title_slide"},
+        {"slide_number": 2, "slide_type": "content", "title": "Agenda", "content_type": "formal_agenda", "layout": "content"},
+        {"slide_number": 3, "slide_type": "content", "title": "Executive Summary", "content_type": "three_key_messages", "layout": "content"},
+        {"slide_number": 4, "slide_type": "chart", "title": "Financial Performance Overview", "content_type": "multi_metric_chart", "layout": "chart_slide"},
+        {"slide_number": 5, "slide_type": "content", "title": "Revenue & Profitability Analysis", "content_type": "financial_table", "layout": "content"},
+        {"slide_number": 6, "slide_type": "chart", "title": "Performance vs. Strategic Targets", "content_type": "target_vs_actual_chart", "layout": "chart_slide"},
+        {"slide_number": 7, "slide_type": "content", "title": "Operational Highlights", "content_type": "operational_scorecard", "layout": "content"},
+        {"slide_number": 8, "slide_type": "content", "title": "Strategic Initiative Updates", "content_type": "initiative_status_table", "layout": "content"},
+        {"slide_number": 9, "slide_type": "content", "title": "Market & Competitive Update", "content_type": "bullets_with_data", "layout": "two_column"},
+        {"slide_number": 10, "slide_type": "content", "title": "Risk Management Report", "content_type": "risk_register_table", "layout": "content"},
+        {"slide_number": 11, "slide_type": "content", "title": "Compliance & Governance", "content_type": "compliance_status_table", "layout": "content"},
+        {"slide_number": 12, "slide_type": "chart", "title": "Capital Allocation & Investment", "content_type": "waterfall_chart", "layout": "chart_slide"},
+        {"slide_number": 13, "slide_type": "content", "title": "People & Culture Update", "content_type": "hr_metrics_layout", "layout": "two_column"},
+        {"slide_number": 14, "slide_type": "content", "title": "FY Outlook & Guidance", "content_type": "outlook_table", "layout": "content"},
+        {"slide_number": 15, "slide_type": "content", "title": "Motions for Board Approval", "content_type": "motion_list", "layout": "content"},
+        {"slide_number": 16, "slide_type": "content", "title": "Appendix: Detailed Financials", "content_type": "section_divider", "layout": "blank"}
+      ]
+    }
+  }
+}

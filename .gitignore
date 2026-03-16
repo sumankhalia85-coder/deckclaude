@@ -1,0 +1,25 @@
+# Environment files — NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# Output & cache
+output/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Frontend
+frontend/.next/
+frontend/node_modules/
+frontend/.env.local
+
+# Assets generated at runtime
+assets/generated/
+data/temp/
+
+# OS
+.DS_Store
+Thumbs.db
